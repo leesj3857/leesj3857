@@ -1,8 +1,3 @@
-<!--
-  GitHub 프로필 README
-  → leesj3857/leesj3857 레포의 README.md 로 복사해서 사용하세요.
--->
-
 <h1 align="center">안녕하세요</h1>
 
 <p align="center">
@@ -12,12 +7,19 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-eta-lac-200sdtddyp.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="mailto:hensin12@gmail.com">
     <img src="https://img.shields.io/badge/Email-hensin12@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/leesj3857">
     <img src="https://img.shields.io/badge/GitHub-leesj3857-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+</p>
+
+<p align="center">
+  🔗 <strong>Portfolio</strong> — <a href="https://portfolio-eta-lac-200sdtddyp.vercel.app/">portfolio-eta-lac-200sdtddyp.vercel.app</a>
 </p>
 
 ---
