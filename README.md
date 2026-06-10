@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-eta-lac-200sdtddyp.vercel.app/">
+  <a href="https://leesj.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:hensin12@gmail.com">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  🔗 <strong>Portfolio</strong> — <a href="https://portfolio-eta-lac-200sdtddyp.vercel.app/">portfolio-eta-lac-200sdtddyp.vercel.app</a>
+  🔗 <strong>Portfolio</strong> — <a href="https://leesj.vercel.app/">leesj.vercel.app</a>
 </p>
 
 ---
