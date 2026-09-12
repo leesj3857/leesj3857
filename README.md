@@ -84,7 +84,7 @@
 
 | 프로젝트 | 구분 | 상태 | 핵심 |
 |---|---|---|---|
-| [**나의 조각집**](https://github.com/leesj3857/INTHON_Team9_FE) | 대회 출품 | ✅ 완료 | 🏆 **장려상** · 감정 기반 조각글 매칭 · React/Redux |
+| [**나의 조각집**](https://github.com/leesj3857/INTHON_Team9_FE) | 대회 출품 | ✅ 완료 | 🏆 **동상** · 감정 기반 조각글 매칭 · React/Redux |
 | [**KOREAT**](https://github.com/leesj3857/2025-NE-XT-FE) | 대회 출품 | ✅ 완료 | 🏆 **장려상** · 방한 외국인 맛집·볼거리 가이드 · React/TS |
 | [**스케쥴리 (Whendy)**](https://github.com/leesj3857/Working-Dead) | 학회 프로젝트 | 🟢 진행 중 | 약속 일정 잡기 · 카카오톡 챗봇 심사 중 · Framer Motion |
 | [**어디GO**](https://github.com/leesj3857/eodi-go-meeting-place) | 학회 프로젝트 | ⏸ 개발 중단 | 모임 중간지점 추천 · React/TS |
