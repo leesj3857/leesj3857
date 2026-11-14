@@ -7,12 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://leesj.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://leesj.vercel.app/blog">
-    <img src="https://img.shields.io/badge/Tech_Blog-Read_Posts-FF6B35?style=flat-square&logo=readme&logoColor=white" alt="Tech Blog"/>
-  </a>
   <a href="mailto:hensin12@gmail.com">
     <img src="https://img.shields.io/badge/Email-hensin12@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
