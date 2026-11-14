@@ -21,10 +21,6 @@
   </a>
 </p>
 
-<p align="center">
-  🔗 <strong>Portfolio</strong> — <a href="https://leesj.vercel.app/">leesj.vercel.app</a><br/>
-  ✍️ <strong>Tech Blog</strong> — <a href="https://leesj.vercel.app/blog">leesj.vercel.app/blog</a>
-</p>
 
 ---
 
